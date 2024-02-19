@@ -1,4 +1,4 @@
-# Draw a stat using Turtle graphics
+# Draw a star using Turtle graphics
 import turtle
 import random
 
